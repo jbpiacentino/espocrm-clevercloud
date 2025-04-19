@@ -1,3 +1,0 @@
-  [
-    "* * * * * cd $ROOT; /usr/x86_64-pc-linux-gnu/bin/php cron.php > /dev/null 2>&1"
-  ]
