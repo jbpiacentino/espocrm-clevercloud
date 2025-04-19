@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# node stuff
+npm install && npm run build
 
 # # Check if 'data' directory does not exist or is empty
 # if [ ! -d "data" ] || [ -z "$(ls -A data)" ]; then
@@ -35,5 +37,3 @@
 #   echo "'custom' directory already exists - assuming config is already set."
 # fi
 
-# node stuff
-npm install && npm run build
