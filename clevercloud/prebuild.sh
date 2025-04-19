@@ -10,7 +10,7 @@
 
 #   # Copy all files including hidden ones (dotfiles)
 #   shopt -s dotglob
-#   cp -a original/data/* data/
+#   cp -a clevercloud/original/data/* data/
 #   shopt -u dotglob
 
 #   echo "Copy complete."
@@ -27,7 +27,7 @@
 
 #   # Copy all files including hidden ones (dotfiles)
 #   shopt -s dotglob
-#   cp -a original/custom/* custom/
+#   cp -a clevercloud/original/custom/* custom/
 #   shopt -u dotglob
 
 #   echo "Copy complete."
